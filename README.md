@@ -10,4 +10,6 @@ Leavesphere is a modern web-based Employee Leave Management System that simplifi
 6. Real-time updates of leave requests and status
 7. Fully responsive UI for desktop and mobile devices
 
-   
+# Objective
+
+The goal of Leavesphere is to digitize and automate leave management workflows, reducing manual effort and improving transparency between employees and management.
