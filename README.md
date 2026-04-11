@@ -13,3 +13,10 @@ Leavesphere is a modern web-based Employee Leave Management System that simplifi
 # Objective
 
 The goal of Leavesphere is to digitize and automate leave management workflows, reducing manual effort and improving transparency between employees and management.
+
+## 🛠️ Tech Stack
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: Python
+* Database: MySQL
+* Hosting: Netlify
